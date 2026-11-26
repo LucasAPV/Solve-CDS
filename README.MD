@@ -1,10 +1,11 @@
 # Trabalho Pratico Matematica Discreta
 
 ## Participantes:
-- Lucas Vilela  || 0125000
-- Rafaela Faria || XXXXXXX
-- Ana Clara     || XXXXXXX
-- Pedro Lucas   || XXXXXXX
+- Lucas Vilela      || 0125000
+- Rafaela Faria     || XXXXXXX
+- Ana Clara         || XXXXXXX
+- Pedro Lucas       || XXXXXXX
+- Christiano Silva  || 0127565
 
 ## Como compilar o projeto
 
