@@ -1,11 +1,11 @@
 # Trabalho Pratico Matematica Discreta
 
 ## Participantes:
-- Lucas Vilela      || 0125000
-- Rafaela Faria     || XXXXXXX
-- Ana Clara         || XXXXXXX
-- Pedro Lucas       || XXXXXXX
-- Christiano Silva  || 0127565
+- [Lucas Vilela](https://github.com/lucasapv)      || 0125000
+- [Rafaela Faria](https://github.com/rafalfaria)     || XXXXXXX
+- [Ana Clara](https://github.com/anaifinfo)         || XXXXXXX
+- [Pedro Lucas](https://github.com/pl-silveira)       || 0125343
+- [Christiano Silva](https://github.com/christianoeds)  || 0127565
 
 ## Como compilar o projeto
 
