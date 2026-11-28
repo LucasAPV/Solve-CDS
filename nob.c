@@ -10,10 +10,10 @@ int main(int argc, char **argv)
    /*Criacao da pasta dos outputs*/
    cmd_append(&cmd, "mkdir", "-p", OUTPUT_FOLDER);
    if (!cmd_run(&cmd)) return 1;
-   
+
    /* Para colocar mais arquivos, basta coloca os nomes deles em cada string */
-   cmd_append(&cmd, "gcc", "-Wall", "-Wextra", "solve-cds.c", "-o", OUTPUT_FOLDER"solve-cds", "-lm");
-   
+   cmd_append(&cmd, "gcc", "-Wall", "-Wextra", "solve-cds.c", "test.c", "-o", OUTPUT_FOLDER"solve-cds", "-lm");
+
    if (!cmd_run(&cmd)) return 1;
 
    return 0;
